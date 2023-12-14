@@ -1,0 +1,7 @@
+.fleet
+
+.env
+go.sum
+
+*.db
+*:memory
